@@ -32,6 +32,17 @@ The practical section includes the actual software tools that:
 
 > 🔄 The software is continuously updated. Suggestions and direct contributions are welcome!
 
+# 📍 This are the main features likely to be implemented:
+( 🟥 - not yet implemented | 🟩 - implemented and working | 🟨 - implemented but not working good )
+NAME                                      | STATUS
+- Eigenvalues and eigenvectors evaluation = 🟥
+- Autonomous stability evaluation         = 🟥
+- Qualitative Bode plot                   = 🟥
+- Qualitative Nyquist plot                = 🟥
+- Laplace transform and inverse transform = 🟥
+- Z transform and inverse transform       = 🟥
+- Kalman decomposition                    = 🟥
+
 ---
 
 ## 📌 Note

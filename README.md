@@ -1,6 +1,13 @@
-# Dynamic-Systems-Software
+# Dynamic-Systems-Software - Sistemi Dinamici - Teoria dei Sistemi
 
-A MATLAB-based software designed to assist with dynamic systems problems and calculations.
+🇬🇧 - Study Papers and a MATLAB-based software designed to assist with dynamic systems problems and calculations.
+
+🇮🇹 - Appunti e un software in Matlab sviluppato con l'obbiettivo di aiutare nello studio di sistemi dinamici.
+
+---
+
+Corso di studi di Sistemi Dinamici - Teoria dei Sistemi nell'università La Sapienza di Roma
+by: Stefan Dascalescu
 
 ---
 
@@ -37,10 +44,10 @@ The practical section includes the actual software tools that:
 NAME                                      | STATUS
 - Eigenvalues and eigenvectors evaluation = 🟩
 - Autonomous stability evaluation         = 🟥
-- Qualitative Bode plot                   = 🟥
-- Qualitative Nyquist plot                = 🟥
-- Laplace transform and inverse transform = 🟥
-- Z transform and inverse transform       = 🟥
+- Qualitative Bode plot                   = 🟩
+- Qualitative Nyquist plot                = 🟩
+- Laplace transform and inverse transform = 🟨
+- Z transform and inverse transform       = 🟨
 - Kalman decomposition                    = 🟥
 
 ---
